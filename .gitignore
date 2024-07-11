@@ -1,0 +1,7 @@
+my-key-par
+my-key-par-priv
+my-key-par.pub
+my-key-par-priv.pub
+plan
+terraform.tfstate
+terraform.tfstate.backup
